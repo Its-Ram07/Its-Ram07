@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ramdas Sahu</h1>
 <h3 align="center">A passionate frontend developer from India also have skills over C++</h3>
 
-- 🔭 I’m currently working on **C++ projects**
+- 🔭 I’m currently working on **C++ Skills**
 
 - 🌱 I’m currently learning **DSA & Cpp**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Web Development Based Projects**
 
 - 📫 How to reach me **ramdas.sahu.cs.20@ggits.net**
 
