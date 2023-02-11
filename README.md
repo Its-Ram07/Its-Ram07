@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramdas Sahu</h1>
 <h3 align="center">A passionate frontend developer from India also have skills over C++</h3>
 
-- 🔭 I’m currently working on **C++ Skills**
+- 🔭 I’m currently working on improving **C++ Skills**
 
 - 🌱 I’m currently learning **DSA & Cpp**
 
